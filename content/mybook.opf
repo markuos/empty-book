@@ -2,14 +2,14 @@
   <metadata>
     <dc:rights>Public domain</dc:rights>
     <dc:creator opf:file-as="Unknown, Author">Unknown Author</dc:creator>
-    <dc:title>My Untitled Book</dc:title>
+    <dc:title>Openness</dc:title>
     <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
     <dc:date opf:event="publication">2013-10-08</dc:date>
   </metadata>
   <manifest>
     <item href="mybook-nav.html" media-type="application/xhtml+xml" id="toc" properties="nav"/>
     <item href="module1.html" id="item1" media-type="application/xhtml+xml"/>
-  </manifest>
+  <item href="open-source-f343110f-2cfb-4f84-bf1f-3506913b70c5.html" id="open-source-f343110f-2cfb-4f84-bf1f-3506913b70c5.html" media-type="application/xhtml+xml"/><item href="open-access-9d37a821-8942-4a20-8baf-2877048ed97a.html" id="open-access-9d37a821-8942-4a20-8baf-2877048ed97a.html" media-type="application/xhtml+xml"/><item href="open-education-2e08d517-635e-4c8c-a05c-3e2df0749d03.html" id="open-education-2e08d517-635e-4c8c-a05c-3e2df0749d03.html" media-type="application/xhtml+xml"/><item href="open-educational-resources-oer-b61000f8-157f-438c-8d1e-9ff55a98404d.html" id="open-educational-resources-oer-b61000f8-157f-438c-8d1e-9ff55a98404d.html" media-type="application/xhtml+xml"/><item href="open-educational-practice-a0a59764-0155-4fec-b8a4-cba03d899037.html" id="open-educational-practice-a0a59764-0155-4fec-b8a4-cba03d899037.html" media-type="application/xhtml+xml"/><item href="open-content-e8f94493-5fec-4506-af7a-ac5c7190ce3a.html" id="open-content-e8f94493-5fec-4506-af7a-ac5c7190ce3a.html" media-type="application/xhtml+xml"/></manifest>
   <spine>
     <itemref idref="item1" linear="yes"/>
   </spine>
